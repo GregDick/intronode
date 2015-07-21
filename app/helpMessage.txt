@@ -1,0 +1,7 @@
+Intronode
+v1.0.0
+
+usage:
+--help                        display this message
+--name={name}                 input name
+
